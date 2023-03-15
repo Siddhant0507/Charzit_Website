@@ -1,0 +1,53 @@
+.card{
+    background: radial-gradient(51.59% 51.59% at 47.61% 48.41%, #CEE1D2 0%, rgba(217, 217, 217, 0) 80.89%) 
+
+}
+.card-title{
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.greenText{
+    color: #79CA5D;
+}
+.card-subtitle{
+    color: #fff;
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 70px;
+    margin-top: 5px;
+}
+.card-desc{
+    font-size: 20px;
+    color: #fff;
+}
+.card-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.card-body{
+    width: 320px;
+    height: 213px;
+    padding: 5px;
+    background-color: #fff;
+    border-radius: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+.card-body:hover{
+    background-color: #79CA5D;
+    color: #fff;
+}
+.card-in{
+    font-size: 20px;
+    margin: 5px auto;
+}
+
+.icons{
+ padding-top: 20px;
+display: flow-root;
+    font-size: 25px;
+
+}

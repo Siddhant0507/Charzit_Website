@@ -1,0 +1,90 @@
+body{
+    background-color:#15171A;
+    /* font-family: poppins; */
+}
+.start{
+    margin-top: 40px;
+    text-align: center;
+}
+.about{
+    color: #79CA5D;
+}
+.heading{
+    color: #fff;
+    font-size: 40px;
+}
+.first-heading , .second-heading, .third-heading , .fourth-heading{
+    color: #fff;
+    font-size: 50px;
+}
+.div-first{
+    padding: 50px 50px;
+    display: flex;
+    height: auto;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    margin-bottom: 10px;
+    
+}
+.text-area{
+    height: auto;
+    width: auto;
+    padding: 40px;
+    margin-left: 50px;
+    
+}
+.img-area{
+    height: auto;
+    width: 1400px;
+    padding-top: 50px;
+    
+}
+.green{
+    color: #79CA5D;
+}
+.founder-desc{
+    font-size: 18px;
+}
+.text2,.first-desc , .third-desc{
+    font-size: 20px;
+    color: #fff;
+    width: 700px;
+}
+.cofounder{
+    color: #79CA5D;
+    font-size: 20px;
+}
+
+ .group-img{
+    height: 300px;
+    width: auto;
+    padding: 100px 50px 50px 150px;
+    z-index: 1;
+ }
+ .person1{
+    position: absolute;
+    width: auto;
+    height: 250px;
+    left: 1200px;
+    top: 850px;
+ }
+ .person2{
+    position: absolute;
+    width: auto;
+    height: 250px;
+    left: 910px;
+    top: 1000px;
+ }
+ .person3{
+    position: absolute;
+    width: auto;
+    height: 250px;
+    left: 1200px;
+    top: 1150px;
+
+ }
+ .founder-img{
+    width: auto;
+height: 450px;
+ }
